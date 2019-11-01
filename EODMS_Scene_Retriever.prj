@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>EODMS_Scene_Retriever</name>
+   <tag></tag>
+   <UUID>99d36f5e-c5a1-47e0-b619-b4039a179c82</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
